@@ -1,6 +1,6 @@
 ---
-title: TITLE
-date: YYYY-MM-DD HH:MM:SS +/-0000
+title: First Post !!!
+date: 2021-04-23 22:48:00 +/-0000
 categories: [Blogs, Tests]
 tags: [tests]     # TAG names should always be lowercase
 ---
