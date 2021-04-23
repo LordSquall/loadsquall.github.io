@@ -20,9 +20,7 @@ title: Oriris Engine                          # the main title
 tagline: Engine development blog and ramblings...   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Development blog and showcase for the Osiris Engine
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://paulrichardhickman.github.io/'
@@ -36,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Paul Richard Hickman
   email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
