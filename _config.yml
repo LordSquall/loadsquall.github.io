@@ -15,12 +15,12 @@ timezone: Europe/London
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Osiris Engine                          # the main title
+title: Wyrd Engine                          # the main title
 
 tagline: Engine development blog and ramblings...   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Development blog and showcase for the Osiris Engine
+  Development blog and showcase for the Wyrd Engine
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://paulrichardhickman.github.io/'
@@ -75,7 +75,7 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
+avatar: /assets/img/icon.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
