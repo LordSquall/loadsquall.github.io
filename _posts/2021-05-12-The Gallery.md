@@ -5,7 +5,7 @@ categories: [Blogs, Gallery]
 tags: [update, gallery]     # TAG names should always be lowercase
 ---
 
-In order to pull all the old material together into a single location, a new tab has been added to the blog called 'Gallery'
+In order to pull all the old material together into a single location, a new tab has been added to the blog called 'Gallery'.
 
 As part of this new page, the first section added is called 'Legacy Media'. The plan is to capture all the old screenshots, gifs and videos that were taken during the initial development.
 
